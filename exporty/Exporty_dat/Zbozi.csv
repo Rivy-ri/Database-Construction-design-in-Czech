@@ -1,0 +1,10 @@
+ID_zbozi,Kod,Cely_nazev,Vyrobce_ID_vyrobce,Cena,Pocet_ks_na_sklade,Merna_jednotka
+1,Sch-Br-multicolore,Kamenny obklad Schiller Bridlice multicolor,3,1309,56,baleni
+2,Sch-PStone-silver,Schiller Silver premium stone neplneny bubnovany,3,1900,20,baleni
+3,Sch-Mr-cerny,Kamenny obklad Schiller Mramor cerny,3,963,86,baleni
+4,GG-Sadra-Colorado,Sadrovy obklad Graham-Graham Colorador,2,109,56,m2
+5,GG-Sadra-VIGO1,Sadrovy obklad Graham-Graham VIGO 1,2,1335,56,m2
+6,SP-BD-3grey,Betonovy obklad Stracke-Stegu Timber 3 grey,1,520,888,baleni
+7,SP-Drevo-cube1,Dreveny obklad Stracke WOOD COLLECTION CUBE 1,1,129,1002,ks
+8,SP-Drevo-pure,Dreveny obklad Wood collection PURE,1,593,12000,ks
+9,SP-BD-begige2,Betonovy obklad Stegu Timber 2 beige,1,5099,24,baleni

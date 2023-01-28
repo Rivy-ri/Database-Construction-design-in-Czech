@@ -1,0 +1,6 @@
+ID_zamestnanec,Jmeno,Prijmeni,Prodejna_ID_prodejna
+1,Hilliard,Binnell,2
+2,Sam,Paradine,1
+3,Yvon,State,1
+4,Flossie,Soitoux,2
+5,Emmit,Hlavac,2
